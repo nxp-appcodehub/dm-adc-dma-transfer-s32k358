@@ -1,0 +1,3 @@
+com.nxp.s32ds.cle.cdt.sdk.core.attachedSDKs=PlatformSDK_S32K3_S32K358_M7_0_0_7.0.1_PATH|Debug_FLASH|Release_FLASH|Debug_RAM|Release_RAM
+com.nxp.s32ds.cle.runtime.sdk.mgmt.version=3.6
+eclipse.preferences.version=1
